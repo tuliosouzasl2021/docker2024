@@ -1,4 +1,4 @@
-# **ANOTAÇÕES DO CURSO DE DOCKER DA UDEMY**
+# **Anotações do Curso de Docker da _UDEMY_**
 
 ### *Lista do conteúdo*
 
