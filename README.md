@@ -1,4 +1,4 @@
-# Anotações do Curso de Docker da _UDEMY_
+# Anotações do Curso de Docker da Udemy
 
 ### Lista do conteúdo
 
