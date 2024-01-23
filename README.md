@@ -1,6 +1,6 @@
 # **ANOTAÇÕES DO CURSO DE DOCKER DA UDEMY**
 
-### Lista de conteúdo e suas anotações
+### *Lista de conteúdo e suas anotações*
 
 1. O Docker
 2. Linux
