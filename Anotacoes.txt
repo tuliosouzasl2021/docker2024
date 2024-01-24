@@ -1,0 +1,7 @@
+# O Docker #
+# Linux #
+# Criando Imagens Docker #
+# Containers #
+# Docker Compose #
+# Projeto DigitalOcean #
+# Finalizando #
