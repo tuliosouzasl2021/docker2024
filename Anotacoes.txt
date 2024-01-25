@@ -1,13 +1,13 @@
 # O Docker #
 
-O que é o docker?
+- O que é o docker?
 Em resumo o docker parece uma máquina virtual, porém bem reduzido (funciona em containers). Com docker você consegue migrar a aplicação facilmente e tira aquele ditado "na minha maquina funciona".
 
-VM = Hardware -> HyperVisor (vm, oracle vm, hyperx etc...) -> SO => Possui muito gasto de recursos, para cada vm que você sobe ele consome muito recursos junto com o SO.
+- VM = Hardware -> HyperVisor (vm, oracle vm, hyperx etc...) -> SO => Possui muito gasto de recursos, para cada vm que você sobe ele consome muito recursos junto com o SO.
 CONTAINER DOCKER = Hardware -> SO (linux, win, mac etc...) -> Container => Sendo assim eu utilizo o mesmo SO e consumo muito pouco recursos.
 
 
-Windows x Linux
+- Windows x Linux
 Comandos entre os dois SO
 
 1 - "dir", "ls -l" -> Directory listing
@@ -41,6 +41,13 @@ Comandos entre os dois SO
 29 - "chdisk", "du -s" -> For disk usage
 30 - "tree", "ls -R" -> To list directory recursively
 
+- Instalando o Docker
+No site do docker e seguir o passo a passo.
+
+- Testando o Docker
+Executar o comando: docker version
+
+- Como funciona o Docker
 
 
 
